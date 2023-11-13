@@ -16,28 +16,6 @@ Este projeto tem como objetivo ser um site para fins de estudos e experiencias
 
 - `CSS`
    
-## 🛠️ Rodar o projeto
-Para que o projeto funcione, abra o arquivo index.html no seu navegador.
-
-Desenvolvido por:
-Enzo 
-[Linkedin: https://www.linkedin.com/in/leonardo-cardoso-598007231/](https://www.linkedin.com/in/enzocd/)
-
-## Landing Page
-
-Olá, seja bem vindo a minha Lading Page utilizando HTML e CSS.
-
-## 🔨 Objetivos do projeto
-Este projeto tem como objetivo ser um site para fins de estudos e experiencias
-
-## Tecnologias utilizadas:
-- `HTML`
-
-- `CSS`
-
-## 🛠️ Rodar o projeto
-Para que o projeto funcione, abra o arquivo index.html no seu navegador.
-
 ## Desenvolvido por:
 Enzo
 Linkedin: https://www.linkedin.com/in/enzocd/
