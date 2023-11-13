@@ -16,11 +16,6 @@ Este projeto tem como objetivo ser um site para fins de estudos e experiencias
 
 - `CSS`
    
-
-## 📁 Acesse o projeto
-Clique aqui para ver o projeto em funcionamento.
-
-
 ## 🛠️ Rodar o projeto
 Para que o projeto funcione, abra o arquivo index.html no seu navegador.
 
@@ -43,6 +38,6 @@ Este projeto tem como objetivo ser um site para fins de estudos e experiencias
 ## 🛠️ Rodar o projeto
 Para que o projeto funcione, abra o arquivo index.html no seu navegador.
 
-Desenvolvido por:
+## Desenvolvido por:
 Enzo
 Linkedin: https://www.linkedin.com/in/enzocd/
