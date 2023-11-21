@@ -6,14 +6,15 @@
 ## Landing Page
 
 Olá, seja bem vindo a minha Lading Page utilizando HTML e CSS.
-
+ATUALIZAÇÃO:
+Foi adicionado o maps, utilizando javascript.
 
 ## 🔨 Objetivos do projeto
 Este projeto tem como objetivo ser um site para fins de estudos e experiencias
 
 ## Tecnologias utilizadas:
 - `HTML`
-
+-`JAVASCRIPT`
 - `CSS`
    
 ## Desenvolvido por:
